@@ -1,4 +1,4 @@
-# Programacion orientada a objetos BASICO
+# Programacion orientada a objetos BASICO 😁
 
 > Bienvenidos a mi curso de POO en javascript. Aqui aprendo a:
 > - Comprender cómo funcionan los objetos en JavaScript.
